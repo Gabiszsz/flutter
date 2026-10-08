@@ -6,7 +6,7 @@ Aqui estão alguns dos projetos e atividades que estou desenvolvendo durante min
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <div align="left">
 
@@ -18,7 +18,7 @@ Aqui estão alguns dos projetos e atividades que estou desenvolvendo durante min
 
 ---
 
-## 📚 Conteúdos
+## Conteúdos
 
 Neste repositório, você encontrará atividades relacionadas a:
 
@@ -37,7 +37,7 @@ Neste repositório, você encontrará atividades relacionadas a:
 
 ---
 
-## 📂 Estrutura
+## Estrutura
 
 Os projetos são organizados de acordo com as atividades e conteúdos estudados.
 
@@ -59,7 +59,7 @@ flutter/
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Este repositório funciona como um espaço para **praticar, testar novas ideias e acompanhar minha evolução com Flutter**.
 
